@@ -10,5 +10,5 @@ Our lab prompts the user to enter their name, then prompts them to enter their a
 * Bella Quattrucci
 * Dejonia Dalhouse
 
-
+# Github has not been the nicest so far but we power through. Almost done!
 
