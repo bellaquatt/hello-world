@@ -10,5 +10,33 @@ Our lab prompts the user to enter their name, then prompts them to enter their a
 * Bella Quattrucci
 * Dejonia Dalhouse
 
-# Github has not been the nicest so far but we power through. Almost done!
+## Table of Contents
 
+- [Usage](#usage)
+- [Running the Program](#runningtheprogram)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+## Usage
+
+1. Make sure you have Python installed on your system.
+2. Clone the repository to your local machine.
+3. Navigate to the project directory.
+
+### Running the Program
+
+To run the program, execute the following command:
+
+python Lab6.ipynb
+
+The program will prompt you to enter your name. Once you input your name and press Enter, the code will prompt you to enter your age, press Enter. Then, it will generate a sentence with your name and age. 
+
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+# License
+
+This project is Licensed under the GNU AFFERO GENERAL PUBLIC LICENSE
